@@ -43,7 +43,7 @@ class MyHomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Welcome to the Home Page of my name Medha tame',
+              'Welcome to the Home Page of my name Medha tamanna akter',
               style: TextStyle(
                 color: Color(0xFFFFB6B9),
                 fontSize: 24,
