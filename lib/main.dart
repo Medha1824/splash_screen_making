@@ -43,7 +43,7 @@ class MyHomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Welcome to the Home Page of',
+              'Welcome to the Home Page of my',
               style: TextStyle(
                 color: Color(0xFFFFB6B9),
                 fontSize: 24,
